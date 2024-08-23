@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/SoumyBhow/Daijishou/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/SoumyBhow/Daijishou/windows/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
